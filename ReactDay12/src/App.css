@@ -1,0 +1,12 @@
+@font-face {
+  font-family: static;
+  src: url(.../../assets/Barlow/Barlow-Bold.ttf);
+}
+@font-face {
+  font-family: Barlow;
+  src: url(.../../assets/Barlow/Barlow-Medium.ttf);
+}
+#thediv{
+background-color: white;
+border-radius: 10px;
+}
